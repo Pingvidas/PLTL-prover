@@ -1,6 +1,8 @@
 # PLTL-prover
 Sequent prover for PLTL logic
 
+Prerequisites: Python 3+ with ltlf2dfa library
+
 >./solver formula|sequent [-v|-t] [help]
 
 formula - formula in PLTL form
